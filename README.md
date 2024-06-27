@@ -5,8 +5,7 @@ Bem-vindo ao meu GitHub! Sou desenvolvedor júnior em Java backend com paixão p
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/taubernardo/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/otauas)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/tauaber/)
+
 
 
 ## Sobre Mim
@@ -14,7 +13,7 @@ Bem-vindo ao meu GitHub! Sou desenvolvedor júnior em Java backend com paixão p
 - 🔭 Atualmente trabalhando em projetos pessoais e colaborativos.
 - 🌱 Aprendendo novas tecnologias e aprimorando minhas habilidades em programação.
 - 💬 Pergunte-me sobre Java backend, Spring Boot, e outras tecnologias.
-- 📫 Como me encontrar: [tbptffc@gmail.com](mailto:tbptffc@gmail.com)
+- 📫 Como me encontrar: [tauabernardo-dev@outlook.com](mailto:tauabernardo-dev@outlook.com)
 
 ## Tecnologias
 
