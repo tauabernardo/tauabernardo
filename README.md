@@ -1,6 +1,6 @@
 # Tauã Bernardo 🦁
 
-Bem-vindo ao meu GitHub! Sou desenvolvedor júnior em Java backend com paixão por aprender e compartilhar conhecimento.
+Bem-vindo ao meu GitHub! Sou, estudante, cursando Ciências da Computação, formado em ADS e desenvolvedor júnior em Java backend com paixão por aprender e compartilhar conhecimento.
 
 ## Conecte-se Comigo
 
