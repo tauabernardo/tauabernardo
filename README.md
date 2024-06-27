@@ -6,6 +6,8 @@ Bem-vindo ao meu GitHub! Sou desenvolvedor júnior em Java backend com paixão p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/taubernardo/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/otauas)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/tauaber/)
+
 
 ## Sobre Mim
 
