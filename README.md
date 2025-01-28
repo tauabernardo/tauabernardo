@@ -1,12 +1,10 @@
 # Tauã Bernardo 🦁
 
-Bem-vindo ao meu GitHub! Sou, estudante, cursando Ciências da Computação, formado em ADS e desenvolvedor júnior em Java backend com paixão por aprender e compartilhar conhecimento.
+Bem-vindo ao meu GitHub! Sou estudante cursando Ciências da Computação, formado em ADS e desenvolvedor júnior em Java backend com paixão por aprender e compartilhar conhecimento.
 
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/taubernardo/)
-
-
 
 ## Sobre Mim
 
@@ -32,13 +30,12 @@ Aqui estão algumas tecnologias com as quais eu trabalho:
 
 Aqui estão alguns dos meus projetos:
 
-1. **Sistema-de-Vendas-JAVA** - O Sistema de Vendas é uma aplicação Java com interface gráfica Swing (JFrame). Gerencia clientes, produtos, usuários e vendas. Futuramente, será integrado com um banco de dados SQL para maior segur…
+1. **RandomWords** - Um projeto simples para gerenciamento de vocabulário em dois idiomas (Inglês-Português). Desenvolvido com MySQL para armazenamento dos dados, inclui funcionalidade CRUD (Create, Read, Update, Delete) em uma única tabela com palavras e seus respectivos significados.
+   
 2. **API CRUD** - Estou iniciando o desenvolvimento de uma API CRUD básica em Java utilizando o Spring Boot. Este projeto tem como objetivo criar uma aplicação que permita realizar operações de criação, leitura, atualização e deleção (CRUD) para uma entidade User. A API será projetada com uma arquitetura RESTful, utilizando Spring Data JPA para interagir com o banco de dados e um banco de dados H2 em memória para armazenamento de dados.
-
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&count_private=true&hide=prs&theme=merko)
 
-
-Sinta-se à vontade para explorar meus repositórios e conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/taubernardo/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauabernardo&layout=compact&theme=merko)
