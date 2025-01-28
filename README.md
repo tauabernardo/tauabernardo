@@ -38,6 +38,7 @@ Aqui estão alguns dos meus projetos:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&theme=radical)
+
 
 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/taubernardo/)
