@@ -36,6 +36,7 @@ Aqui estão alguns dos meus projetos:
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&count_private=true&hide=prs&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauabernardo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauabernardo&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauabernardo&layout=compact&theme=radical)
+
